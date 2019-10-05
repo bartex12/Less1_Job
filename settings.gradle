@@ -1,2 +1,2 @@
-include ':app', ':lesson4_1'
+include ':app', ':lesson4_1', ':lesson4_2', ':lesson4_22'
 rootProject.name='Less1_Job'
